@@ -7831,28 +7831,22 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 /********** Custom CSS ************/
 h1, h2, h3 {
-  font-weight: 700 !important; }
+  font-weight: 700 !important;
+  font-size: 22px; }
 
 h4, h5, h6 {
   font-weight: 500 !important; }
 
-@media (max-width: 1024px) {
-  h1 {
-    font-size: 22px;
-    /* Adjust font size for smaller screens */
-    text-align: center; }
-
+@media (max-width: 1439px) {
   h1 {
     font-size: 18px;
-    /* Adjust font size for laptops */
-    text-align: center;
-    /* Center the text */ } }
+    /* Adjust font size for smaller screens */
+    text-align: center; } }
 @media (min-width: 1440px) {
   h1 {
     font-size: 26px;
-    /* Adjust as needed for larger screens */
-    text-align: center;
-    /* Center the text */ } }
+    /* Adjust font size for larger screens */
+    text-align: center; } }
 .btn {
   font-weight: 600;
   padding: 10px 25px; }
