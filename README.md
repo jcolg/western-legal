@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the official website of Western Legal! Our website serves as a platform to provide information about our legal services and practice areas. Whether you're seeking legal assistance or simply exploring your options, we're here to help.
+This is the unofficial website of Western Legal! Our website serves as a platform to provide information about our legal services and practice areas. Whether you're seeking legal assistance or simply exploring your options, we're here to help.
 
 ## Installation
 
